@@ -1,0 +1,4 @@
+﻿     Создается библиотека C:\Users\denfa\Desktop\Student\OOP_1.1\Debug\UnitTest1.1OOP.lib и объект C:\Users\denfa\Desktop\Student\OOP_1.1\Debug\UnitTest1.1OOP.exp
+UnitTest1.1OOP.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: bool __thiscall Goods::SetSecond(int)" (?SetSecond@Goods@@QAE_NH@Z) в функции "public: void __thiscall UnitTest11OOP::UnitTest11OOP::TestMethod1(void)" (?TestMethod1@UnitTest11OOP@1@QAEXXZ).
+UnitTest1.1OOP.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __thiscall Goods::Init(int,double)" (?Init@Goods@@QAEXHN@Z) в функции "public: void __thiscall UnitTest11OOP::UnitTest11OOP::TestMethod1(void)" (?TestMethod1@UnitTest11OOP@1@QAEXXZ).
+C:\Users\denfa\Desktop\Student\OOP_1.1\Debug\UnitTest1.1OOP.dll : fatal error LNK1120: неразрешенных внешних элементов: 2

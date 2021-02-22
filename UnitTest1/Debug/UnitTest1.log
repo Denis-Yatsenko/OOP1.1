@@ -1,0 +1,5 @@
+﻿  UnitTest1.cpp
+C:\Users\denfa\Desktop\Student\OOP_1.1\UnitTest1\UnitTest1.cpp(18,15): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+     Создается библиотека C:\Users\denfa\Desktop\Student\OOP_1.1\Debug\UnitTest1.lib и объект C:\Users\denfa\Desktop\Student\OOP_1.1\Debug\UnitTest1.exp
+UnitTest1.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: void __thiscall Goods::Init(int,double)" (?Init@Goods@@QAEXHN@Z) в функции "public: void __thiscall UnitTest1::UnitTest1::TestMethod1(void)" (?TestMethod1@UnitTest1@1@QAEXXZ).
+C:\Users\denfa\Desktop\Student\OOP_1.1\Debug\UnitTest1.dll : fatal error LNK1120: неразрешенных внешних элементов: 1
